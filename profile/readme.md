@@ -24,6 +24,6 @@ With our **📈 Statistics** part, we should be able to compute (from large data
 
 ## Job openings
 
-- [Software engineer](https://github.com/reelevant-tech/.github/blob/main/jobs/Software.engineer.%40.Reelevant.pdf)
+- [Software engineer](https://github.com/reelevant-tech/.github/blob/main/jobs/Software%20engineer%20%40%20Reelevant.pdf)
 
 You can see all of our jobs openings [here](https://www.welcometothejungle.com/en/companies/reelevant/jobs).
