@@ -22,8 +22,4 @@ When we generate a content (on-demand, when a user request a content) it should 
 
 With our **📈 Statistics** part, we should be able to compute (from large datasets) and display quickly right statistics to our customers.
 
-## Job openings
-
-- [Software engineer](https://github.com/reelevant-tech/.github/blob/main/jobs/Software%20engineer%20%40%20Reelevant.pdf)
-
 You can see all of our jobs openings [here](https://www.welcometothejungle.com/en/companies/reelevant/jobs).
