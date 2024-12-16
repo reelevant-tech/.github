@@ -4,7 +4,9 @@
 We’re building a martech (e.g. marketing technology) product which help companies (mainly e-commerce) to generate individualized contents at scale.
 Our customers store their data in our platform and use efficiently this data to generate the right content for each of their customers.
 
-![diagram](https://user-images.githubusercontent.com/6900054/200024814-df99023f-e89d-4aaa-b468-310de8bac020.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bff76a38-72ef-406f-b332-c6e155f5d05a">
+</p>
 
 Our product is divided in 4 main parts: Datasources, Workflows, Contents and Statistics. Each of those parts have different challenges.
 
