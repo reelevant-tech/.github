@@ -1,17 +1,50 @@
 [
   {
-    "v4": "145.239.10.84/32",
-    "v6": "2001:41d0:203:1454::/64",
-    "comment": "active"
-  },
-  {
     "v4": "51.68.25.237/32",
     "v6": "2001:41d0:351:ed00::/56",
-    "comment": "active"
+    "region": "eu-west",
+    "comment": "scheduled_for_removal"
   },
   {
     "v4": "51.68.100.71/32",
     "v6": "2001:41d0:266:4700::/56",
+    "region": "eu-west",
+    "comment": "scheduled_for_removal"
+  },
+  {
+    "v4": "145.239.10.84/32",
+    "v6": "2001:41d0:203:1454::/64",
+    "region": "eu-west",
+    "comment": "active"
+  },
+  {
+    "v4": "54.36.13.177/32",
+    "region": "eu-west",
+    "comment": "active"
+  },
+  {
+    "v4": "57.130.41.176/32",
+    "region": "eu-west",
+    "comment": "active"
+  },
+  {
+    "v4": "141.95.224.76/32",
+    "region": "eu-west",
+    "comment": "active"
+  },
+  {
+    "v4": "15.235.57.132/32",
+    "region": "ca-east",
+    "comment": "active"
+  },
+  {
+    "v4": "15.235.59.238/32",
+    "region": "ca-east",
+    "comment": "active"
+  },
+  {
+    "v4": "72.251.9.131/32",
+    "region": "ca-east",
     "comment": "active"
   }
 ]
